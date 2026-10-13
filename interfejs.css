@@ -1,0 +1,35 @@
+body {margin: 0;}
+p {margin: 0 10px;}
+
+.content-wrapper {
+    width: 820px;
+    margin: 0 auto;
+
+    font-family: "Ubuntu", sans-serif;
+    font-size: 16px;
+
+    line-height: 1.5;
+}
+
+.sidebar-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+
+    font-family: "Ubuntu", sans-serif;
+    font-size: 16px;
+
+    background-color: lightgrey;
+}
+
+.heading {
+    font-family: "Bricolage Grotesque", sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+
+    font-weight: 600;
+
+    padding: 0 10px;
+
+}
